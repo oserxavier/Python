@@ -1,8 +1,5 @@
-
 # coding: utf-8
-
 # In[10]:
-
 
 import urllib.request
 # urllib.request.urlopen ('link').read -> vou buscar dentro dessa url abaixo
@@ -23,4 +20,3 @@ euro = content[ posicao : posicao  + 4]
 
 print("Dolar: " + dolar)
 print("Euro: " + euro)
-
