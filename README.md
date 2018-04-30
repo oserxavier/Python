@@ -1,2 +1,2 @@
-# Python
-Algumas ferramentas em Python bem úteis que utilizo em estudos e nos meus projetos.
+# Um webcrowler que faz busca em um site para mostrar a cotacao do dolar e euro
+
